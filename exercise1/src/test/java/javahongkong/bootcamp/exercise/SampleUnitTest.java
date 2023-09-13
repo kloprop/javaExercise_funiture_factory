@@ -1,4 +1,4 @@
-package exercise.javahongkong.bootcamp.exercise;
+package javahongkong.bootcamp.exercise;
 
 import static junit.framework.TestCase.assertEquals;
 import org.junit.BeforeClass;
